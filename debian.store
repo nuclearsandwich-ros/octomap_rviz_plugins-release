@@ -1,1 +1,1 @@
-{"base": "db99fec", "parent": "debian/rolling/octomap_rviz_plugins", "previous": "acb7525", "trim": "", "trimbase": ""}
+{"base": "3285028", "parent": "debian/humble/octomap_rviz_plugins", "previous": "7e83b64", "trim": "", "trimbase": ""}
